@@ -2,6 +2,8 @@ import Avatar from "components/Avatar";
 
 import "@rainbow-me/rainbowkit/styles.css";
 
+// TODO - prettier org imports plugin
+
 import { ConnectButton, RainbowKitProvider } from "@rainbow-me/rainbowkit";
 import { WagmiConfig } from "wagmi";
 import { client } from "wallet/connectors";
